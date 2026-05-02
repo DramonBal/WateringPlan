@@ -27,37 +27,4 @@ strong {
 }
 
 
-calendar {
- width: 100%;
- max-width: 600px;
- margin: auto;
-}
-month {
- text-align: center;
- background-color: #1abc9c;
- color: white;
- padding: 20px;
-}
-month ul {
- list-style-type: none;
- padding: 0;
-}
-month li {
- display: inline-block;
-}
-weekdays, .days {
- list-style-type: none;
- padding: 0;
-}
-weekdays li, .days li {
- display: inline-block;
- width: calc(100% / 7);
- text-align: center;
-}
-days li {
- margin-bottom: 10px;
-}
-days li .active {
- background-color: #1abc9c;
- color: white;
-}
+
