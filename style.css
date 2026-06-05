@@ -20,10 +20,25 @@ h1 {
   font-weight: bold;
   text-align: center;
 }
+
+h2 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+
+p {
+  font-size: 1.2rem;
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+}
+
+
 strong {
    color: #12aa68;
   font-family: 'Montserrat', sans-serif;
 }
+
 .poster {
   width: 50%;
   margin-left: 25%;
