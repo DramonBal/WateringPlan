@@ -35,7 +35,9 @@ p {
 
 
 strong {
-   color: #12aa68;
+   /*color: #12aa68;*/
+  fonrt-size: 1.0rem;
+  color:  hsl(111, 83%, 42%);
   font-family: 'Montserrat', sans-serif;
 }
 
